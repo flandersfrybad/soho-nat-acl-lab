@@ -87,9 +87,9 @@ From browser inside PC0:
 
     README.md → this guide
 
-    cli-commands.txt (optional, all typed commands)
+    cli-commands.txt (all typed commands)
 
-    topology.png (optional screenshot)
+    topology.png (screenshot)
 
 💡 Why I Built This
 
@@ -101,10 +101,13 @@ This lab builds skills used in:
 
     SOC/Helpdesk Tier I–II packet flow logic
 
-    Real-world interviews that ask: “Can you configure a router to allow only web traffic?”
+    Real-world interviews ask: “Can you configure a router to allow only web traffic?”
 
-Let’s go deeper next time—VLANs, DHCP, DNS spoofing, Wireshark, and beyond.
 🙋‍♂️ Contact
 
 Built by: @herrotarrow
+lannertfayad@yahoo.com
+https://www.linkedin.com/in/lannertfayad/
 Questions? DM me on TikTok or drop an issue on this repo.
+
+Let’s go deeper next time—VLANs, DHCP, DNS spoofing, Wireshark, and beyond.
