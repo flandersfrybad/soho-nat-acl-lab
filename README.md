@@ -1,10 +1,10 @@
 # soho-nat-acl-lab
-SOHO Network: NAT + ACL + PAT Lab | Cisco Packet Tracer
-
 
 # 🧠 SOHO Network: NAT + ACL + PAT Lab | Cisco Packet Tracer
 
-Hey there 👋 I’m Lanner. This is a real-world Small Office / Home Office (SOHO) lab I built inside Cisco Packet Tracer to simulate basic firewall logic, NAT, and PAT behavior.
+Hey there 👋 I’m Lanner.
+
+This is a real-world Small Office / Home Office (SOHO) lab I built inside Cisco Packet Tracer to simulate basic firewall logic, NAT, and PAT behavior.
 
 Yes, there’s a video walkthrough:
 🎥 https://www.tiktok.com/@herrotarrow/video/7530746921497988383
