@@ -81,6 +81,7 @@ From browser inside PC0:
 
     https://10.0.0.2 ✅
 
+```
 📁 Files (Included)
 
     soho-nat-acl-lab.pkt → the live Packet Tracer simulation
