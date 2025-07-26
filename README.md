@@ -113,4 +113,6 @@ Let’s go deeper next time—VLANs, DHCP, DNS spoofing, Wireshark, and beyond.
 
 ## 🔗 Download the Lab
 You can download and open the Packet Tracer lab file here:
-![SOHO Lab Preview](hoodie-lab1.png)
+
+📁 [SOHO NAT + ACL Lab (.pkt)](https://github.com/flandersfrybad/soho-nat-acl-lab/blob/main/SOHO%20NAT%20PAT%20ACL%20LAB.pkt)
+
